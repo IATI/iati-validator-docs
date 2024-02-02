@@ -58,7 +58,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'IATI Validator Docs'
 copyright = '2024 United Nations Development Programme, on behalf of the IATI Secretariat'
-author = 'United Nations Development Programme, on behalf of the IATI Secretariat'
+author = 'IATI Secretariat'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -272,7 +272,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'sphinx.tex', 'IATI Validator Docs',
-     'United Nations Development Programme, on behalf of the IATI Secretariat', 'manual'),
+     'IATI Secretariat', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
