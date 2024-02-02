@@ -20,9 +20,8 @@ sphinx:
   configuration: docs/conf.py
   builder: dirhtml
 
-# If using Sphinx, optionally build your docs in additional formats such as PDF
-# formats:
-#    - pdf
+# Build all formats, including PDF
+formats: all
 
 # Optionally declare the Python requirements required to build your docs
 python:
