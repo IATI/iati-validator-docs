@@ -28,10 +28,6 @@ Assuming a unix based system:
   # If you're not sure, try creating a venv, and see if it errors
   sudo apt-get install python3-venv
   
-  # Install submodules
-  git submodule init
-  git submodule update
-  
   # Create a venv
   python3 -m venv .ve    
   
@@ -39,7 +35,6 @@ Assuming a unix based system:
   source .ve/bin/activate
   
   # Install requirements
-  pip install --upgrade pip setuptools
   pip install -r requirements.txt
   
   # Build the docs
