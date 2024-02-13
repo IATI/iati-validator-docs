@@ -5,4 +5,6 @@ IATI Validator Docs
    :titlesonly:
    :maxdepth: 2
    :caption: Table of Contents
+   
+   methodology
 
