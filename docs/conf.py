@@ -36,7 +36,8 @@ extensions = ['myst_parser',
               'sphinx_rtd_theme',
               'sphinx.ext.todo',
               'sphinx.ext.autodoc',
-              'sphinx_togglebutton',]
+              'sphinx_togglebutton',
+              'sphinx.ext.autosectionlabel']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
