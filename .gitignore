@@ -1,3 +1,4 @@
 .ve
 *.swp
 *~
+.devcontainer/devcontainer.json
