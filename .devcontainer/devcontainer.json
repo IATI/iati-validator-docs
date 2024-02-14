@@ -20,11 +20,10 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
 				"ms-azuretools.vscode-docker",
+				"lextudio.restructuredtext-pack",
 				"ms-python.debugpy",
-				"tht13.rst-vscode",
-				"lextudio.restructuredtext"
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	},
