@@ -53,3 +53,15 @@ Viewing the docs:
   python -m http.server
 
 Then go to http://localhost:8000/ in a browser.
+
+Translations
+------------
+
+Install requirements as above.
+
+.. code-block:: bash
+
+   # Extract English source strings
+   cd docs
+   make gettext
+   # .pot files are in _build/locale
