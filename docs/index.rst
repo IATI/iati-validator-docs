@@ -55,5 +55,3 @@ Help & Support
    :caption: Validator API
    
    api
-   
-

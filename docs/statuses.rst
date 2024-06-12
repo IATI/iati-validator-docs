@@ -28,7 +28,7 @@ If the rule states that a certain condition MUST be met, then failure to meet th
 
 If the rule states that a certain condition SHOULD be met, then failure to meet that condition results in a **Warning** status. 
 
-Sucess (with advisories)
+Success (with advisories)
 ------------------------
 
 The IATI Validator also carries out checks that go beyond the requirements of the IATI Standard in order to highlight ways in which the data can be made more useful. These are not errors, but addressing them will improve the utility of the data. If a file has no errors but does have advisories, then it will have the status "Success (with advisories)".
