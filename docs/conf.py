@@ -33,7 +33,6 @@
 extensions = ['myst_parser',
               'sphinxcontrib.opendataservices',
               'sphinxcontrib.jsonschema',
-              'sphinx_rtd_theme',
               'sphinx.ext.todo',
               'sphinx.ext.autodoc',
               'sphinx_togglebutton',
@@ -128,14 +127,14 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'iati_sphinx_theme'
 
 html_css_files = [
     'custom.css',
 ]
 
 # Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
+# further.  For a list of options available for each theme, see the    
 # documentation.
 #
 # html_theme_options = {}

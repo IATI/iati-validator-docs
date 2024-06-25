@@ -25,8 +25,13 @@ Help & Support
  `Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
 
 
+.. toctree::
+   :hidden:
+
+   Home <self>
 
 .. toctree::
+   :hidden:
    :titlesonly:
    :maxdepth: 2
    :caption: IATI Validation
@@ -37,6 +42,7 @@ Help & Support
 
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Validator Website
    
@@ -44,9 +50,8 @@ Help & Support
 
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Validator API
    
    api
-   
-
