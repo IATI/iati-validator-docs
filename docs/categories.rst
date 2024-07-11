@@ -37,7 +37,7 @@ Checks that relate to the structure of the data in ways that cannot be enforced 
 organisation
 ------------
 
-Checks relating to organisation identifiers, , such as formatting and allowed characters. 
+Checks relating to organisation identifiers, such as formatting and allowed characters. 
 
 participating
 -------------
