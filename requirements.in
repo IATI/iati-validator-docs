@@ -2,4 +2,4 @@ sphinx
 sphinx-togglebutton
 sphinxcontrib-opendataservices
 sphinx-intl
-iati-sphinx-theme
+iati-sphinx-theme @ git+https://github.com/IATI/sphinx-theme@add_plausible
