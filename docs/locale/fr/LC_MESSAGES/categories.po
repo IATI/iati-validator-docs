@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Validator Docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Validator Docs 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-07 15:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../categories.rst:3
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../../categories.rst:5
+msgid "Checks carried out by the validator are grouped into categories, depending on what they're checking. The categories are:"
+msgstr "Les contrôles effectués par le validateur sont regroupés en catégories, en fonction de ce qu'ils vérifient. Les catégories sont les suivantes"
+
+#: ../../categories.rst:8
+msgid "classifications"
+msgstr "classifications"
+
+#: ../../categories.rst:10
+msgid "Checks relating to classifications, such as sector codes."
+msgstr "Contrôles relatifs aux classifications, tels que les codes sectoriels."
+
+#: ../../categories.rst:13
+msgid "financial"
+msgstr "financière"
+
+#: ../../categories.rst:15
+msgid "Checks relating to financial aspects, such as budget splits and financial type codes."
+msgstr "Contrôles relatifs aux aspects financiers, tels que les ventilations budgétaires et les codes de type financier."
+
+#: ../../categories.rst:18
+msgid "geo"
+msgstr "géo"
+
+#: ../../categories.rst:20
+msgid "Checks relating to geographic aspects, such as ensuring that percentage splits between countries or regions sum to 100%."
+msgstr "Contrôles relatifs aux aspects géographiques, par exemple pour s'assurer que la somme des pourcentages entre les pays ou les régions est égale à 100 %."
+
+#: ../../categories.rst:23
+msgid "iati"
+msgstr "iati"
+
+#: ../../categories.rst:25
+msgid "Checks relating to dates, such as checking that end dates come after start dates."
+msgstr "Contrôles relatifs aux dates, tels que la vérification que les dates de fin sont postérieures aux dates de début."
+
+#: ../../categories.rst:28
+msgid "identifiers"
+msgstr "identifiants"
+
+#: ../../categories.rst:30
+msgid "Checks relating to activity identifiers, such as formatting and allowed characters."
+msgstr "Contrôles relatifs aux identificateurs d'activité, tels que le formatage et les caractères autorisés."
+
+#: ../../categories.rst:33
+msgid "information"
+msgstr "l'information"
+
+#: ../../categories.rst:35
+msgid "Checks that relate to the structure of the data in ways that cannot be enforced in XML schema, such as where one of two fields must be present."
+msgstr "Contrôles liés à la structure des données d'une manière qui ne peut être appliquée dans le schéma XML, par exemple lorsqu'un des deux champs doit être présent."
+
+#: ../../categories.rst:38
+msgid "organisation"
+msgstr "l'organisation"
+
+#: ../../categories.rst:40
+msgid "Checks relating to organisation identifiers, , such as formatting and allowed characters."
+msgstr "Contrôles relatifs aux identificateurs d'organisation, tels que le formatage et les caractères autorisés."
+
+#: ../../categories.rst:43
+msgid "participating"
+msgstr "participant"
+
+#: ../../categories.rst:45
+msgid "Checks relating to participating-organisation information, such as allowed characters and important fields."
+msgstr "Contrôles relatifs aux informations sur les organisations participantes, tels que les caractères autorisés et les champs importants."
+
+#: ../../categories.rst:48
+msgid "performance"
+msgstr "performance"
+
+#: ../../categories.rst:50
+msgid "Checks relating to indicators, such as ensuring that quantiative indicators have baselines."
+msgstr "Contrôles relatifs aux indicateurs, par exemple pour s'assurer que les indicateurs quantitatifs sont assortis de lignes de base."
+
+#: ../../categories.rst:53
+msgid "relations"
+msgstr "relations"
+
+#: ../../categories.rst:55
+msgid "Checks relating to related activites, such as formatting of identifiers."
+msgstr "Contrôles relatifs à des activités connexes, telles que le formatage des identifiants."
