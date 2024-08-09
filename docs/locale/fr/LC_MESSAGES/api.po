@@ -18,12 +18,12 @@ msgstr ""
 
 #: ../../api.rst:3
 msgid "IATI Validator API"
-msgstr ""
+msgstr "API du validateur de l'IITA"
 
 #: ../../api.rst:5
 msgid "All functions of the IATI Validator are available via an API."
-msgstr ""
+msgstr "Toutes les fonctions du validateur de l'IITA sont disponibles via une API."
 
 #: ../../api.rst:7
 msgid "API documentation is available on the `IATI API Portal <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"
-msgstr ""
+msgstr "La documentation de l'API est disponible sur le portail de l'API `IATI <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"
