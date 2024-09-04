@@ -59,9 +59,21 @@ Translations
 
 Install requirements as above.
 
+Extract English source strings:
+
 .. code-block:: bash
 
-   # Extract English source strings
    cd docs
    make gettext
    # .pot files are in _build/locale
+
+Then put the translated files in `docs/locale/fr/LC_MESSAGES/`.
+
+Build a translated docs site:
+
+.. code-block:: bash
+
+   cd docs
+   make -e SPHINXOPTS="-D language='fr'" dirhtml
+
+Built docs are in `docs/_build/dirhtml`.
