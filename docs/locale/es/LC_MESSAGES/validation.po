@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Validator Docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Validator Docs 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 15:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../validation.rst:3
+msgid "Validation Overview"
+msgstr "Descripción general de la validación"
+
+#: ../../validation.rst:5
+msgid "Validation is the process of assessing a file using the `IATI Standard <https://iatistandard.org/en/iati-standard/>`_. Both the schema and the rulesets are used in validation."
+msgstr "La validación es el proceso de evaluación de un archivo utilizando la `Norma IATI <https://iatistandard.org/en/iati-standard/>`_. En la validación se utilizan tanto el esquema como los conjuntos de reglas."
+
+#: ../../validation.rst:7
+msgid "Both Activity and Organisation files can be validated."
+msgstr "Se pueden validar tanto el archivo de actividad como el de organización."
+
+#: ../../validation.rst:9
+msgid "Validation only covers areas of the standard that can be checked by a computer: some requirements of the IATI standard (such as that text is descriptive) are subjective and therefore are not included in validation."
+msgstr "La validación solo abarca los ámbitos de la norma que puede comprobar un ordenador; algunos requisitos de la Norma IATI (que el texto sea descriptivo, por ejemplo) son subjetivos y, por tanto, no se incluyen en la validación."
+
+#: ../../validation.rst:11
+msgid "Validation only checks the structure of the data: no attempt is made to verify that the data is true or accurate."
+msgstr "La validación únicamente comprueba la estructura de los datos: no se intenta verificar que los datos sean verdaderos o exactos."
+
+#: ../../validation.rst:13
+msgid "The result of this process is a report, which shows the :ref:`status<Statuses>` of the file, and details of any issues found. Issues are grouped into :ref:`categories<Categories>` for ease of comprehension."
+msgstr "El resultado de este proceso es un informe, que muestra el :ref:`estado<Estados>` del archivo, y detalles de cualquier problema encontrado. Los temas se agrupan en :ref:`categorías<Categorías>` para facilitar su comprensión."
+
+#: ../../validation.rst:15
+msgid "When an Activity file is validated, the whole file is assessed and given a status. As long as the file doesn't have Critical status, each individual activity is then assessed and assigned a status. The file's status will always be that of the most serious single issue discovered in the file."
+msgstr "Cuando se valida un archivo de Actividad, se evalúa todo el archivo y se le asigna un estado. Siempre que el archivo no tenga el estado Crítico, se evalúa cada actividad individual y se le asigna un estado. El estado del archivo será siempre el del problema individual más grave encontrado en el archivo."

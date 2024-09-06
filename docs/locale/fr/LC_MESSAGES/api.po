@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Validator Docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Validator Docs 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-07 15:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../api.rst:3
+msgid "IATI Validator API"
+msgstr "API de l'outil de validation de l'IITA"
+
+#: ../../api.rst:5
+msgid "All functions of the IATI Validator are available via an API."
+msgstr "Toutes les fonctions de l'outil de validation de l'IITA sont disponibles via une API."
+
+#: ../../api.rst:7
+msgid "API documentation is available on the `IATI API Portal <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"
+msgstr "La documentation de l'API est disponible sur le `portail de l'API de l'IITA <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"

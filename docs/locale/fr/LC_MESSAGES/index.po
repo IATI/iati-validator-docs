@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Validator Docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Validator Docs 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 15:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:28
+msgid "Home"
+msgstr "Accueil"
+
+#: ../../index.rst:33
+msgid "IATI Validation"
+msgstr "Validation de l'IITA"
+
+#: ../../index.rst:44
+msgid "Validator Website"
+msgstr "Site web de l'outil de validation"
+
+#: ../../index.rst:52
+msgid "Validator API"
+msgstr "API de l'outil de validation"
+
+#: ../../index.rst:3
+msgid "IATI Validator"
+msgstr "Outil de validation de l’IITA"
+
+#: ../../index.rst:5
+msgid "The IATI Validator is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results."
+msgstr "L'outil de validation de l'IITA permet d'évaluer les données à l'aide des règles et des directives relatives à la norme de l'IITA. Il fournit également des informations sur la manière d'améliorer la qualité des données de l'IITA afin qu'elles soient accessibles et utiles à tous ceux qui travaillent avec des données sur les activités, les ressources et les résultats dans le domaine du développement et de l'action humanitaire."
+
+#: ../../index.rst:7
+msgid "Files can be uploaded to the Validator for assessment via `the Validator website <https://validator.iatistandard.org>`_ . Validation usually takes a few minutes."
+msgstr "Les fichiers peuvent être téléversés sur l'outil de validation pour être évalués via `le site web de l'outil de validation <https://validator.iatistandard.org>`_ . La validation prend généralement quelques minutes."
+
+#: ../../index.rst:9
+msgid "A link to data on the Web can be provided, and the IATI Validator will download the file before assessing it. This relies on the data being publicly available: advice on identifying and resolving download issues can be found on the `IATI Standard Website <https://iatistandard.org/en/guidance/publishing-data/publishing-files/publishing-without-access-restrictions/>`_."
+msgstr "Un lien vers des données sur le web peut être fourni, et l'outil de validation de l'IITA téléchargera le fichier avant de l'évaluer. Dans cette optique, il faut que les données soient accessibles au public : des conseils sur l'identification et la résolution des problèmes de téléchargement sont consultables sur le `site web de la norme de l'IITA <https://iatistandard.org/fr/guidance/publishing-data/creating-files/publishing-without-access-restrictions/>`_."
+
+#: ../../index.rst:11
+msgid "Reports on any published IATI file can be found in the `Public Data Viewer <https://validator.iatistandard.org/organisations>`_. Reports are available a few hours after the data has been updated."
+msgstr "Les rapports sur tous les fichiers de l'IITA publiés peuvent être consultés dans le `Public Data Viewer (outil de visualisation des données publiques) <https://validator.iatistandard.org/organisations>`_. Les rapports sont disponibles quelques heures après la mise à jour des données."
+
+#: ../../index.rst:13
+msgid "Validation and reports are also available via the `IATI API Portal <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_."
+msgstr "La validation et les rapports sont également disponibles via le `portail de l'API de l'IITA <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_."
+
+#: ../../index.rst:15
+msgid "The methodology used by the Validator and the meaning of the reports can be found in the :ref:`IATI Validation<Validation Overview>` section."
+msgstr "La méthodologie utilisée par l'outil de validation et la signification des rapports sont décrites dans la section :ref:`Validation de l'IITA<Vue d'ensemble de la validation>`."
+
+#: ../../index.rst:18
+msgid "Donor Requirements"
+msgstr "Exigences des donateurs"
+
+#: ../../index.rst:20
+msgid "A number of donors have their own requirements for their grantees; the IATI Validator does not check for these. For assistance, contact the relevant donor. IATI does publish `donor reporting requirement guidance <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_ , which represents IATI's most current information."
+msgstr "Un certain nombre de donateurs ont leurs propres exigences à l'égard de leurs bénéficiaires ; l'outil de validation de l'IITA ne les vérifie pas. Pour obtenir de l'aide, contactez le donateur concerné. L'IITA publie des `directives sur les exigences des donateurs en matière de communication des données <https://iatistandard.org/fr/guidance/standard-overview/donors-reporting-requirements/>`_ , qui incluent les informations les plus récentes de l'IITA."
+
+#: ../../index.rst:23
+msgid "Help & Support"
+msgstr "Aide et assistance"
+
+#: ../../index.rst:25
+msgid "`Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_"
+msgstr "`Contactez-nous <https://iatistandard.org/fr/guidance/get-support/>`_ pour toute question relative à la publication, à l'utilisation ou à l'amélioration des données de l'IITA. Il existe une communauté active de signataires et d'utilisateurs de l'IITA sur la plateforme `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_"
