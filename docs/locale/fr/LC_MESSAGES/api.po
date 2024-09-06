@@ -26,4 +26,4 @@ msgstr "Toutes les fonctions de l'outil de validation de l'IITA sont disponibles
 
 #: ../../api.rst:7
 msgid "API documentation is available on the `IATI API Portal <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"
-msgstr "La documentation de l'API est disponible sur le `portail de l'API de l'IITA <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"
+msgstr "La documentation de l'API est disponible sur le `portail de l'API de l'IITA <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_"
