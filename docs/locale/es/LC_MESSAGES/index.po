@@ -42,7 +42,7 @@ msgstr "El Validador de la IATI es una herramienta para evaluar los datos utiliz
 
 #: ../../index.rst:7
 msgid "Files can be uploaded to the Validator for assessment via `the Validator website <https://validator.iatistandard.org>`_ . Validation usually takes a few minutes."
-msgstr "Los archivos pueden cargarse en el sitio web del Validador para su evaluación: <https://validator.iatistandard.org>`_ . La validación suele tardar unos minutos."
+msgstr "Para su evaluación, los archivos pueden cargarse en el `sitio web del Validador : <https://validator.iatistandard.org>`_ . La validación suele tardar unos minutos."
 
 #: ../../index.rst:9
 msgid "A link to data on the Web can be provided, and the IATI Validator will download the file before assessing it. This relies on the data being publicly available: advice on identifying and resolving download issues can be found on the `IATI Standard Website <https://iatistandard.org/en/guidance/publishing-data/publishing-files/publishing-without-access-restrictions/>`_."
