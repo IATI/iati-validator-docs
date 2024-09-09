@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Validator Docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Validator Docs 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 15:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:28
+msgid "Home"
+msgstr "Inicio"
+
+#: ../../index.rst:33
+msgid "IATI Validation"
+msgstr "Validación de la IATI"
+
+#: ../../index.rst:44
+msgid "Validator Website"
+msgstr "Página web del Validador"
+
+#: ../../index.rst:52
+msgid "Validator API"
+msgstr "API del Validador"
+
+#: ../../index.rst:3
+msgid "IATI Validator"
+msgstr "Validador de la IATI"
+
+#: ../../index.rst:5
+msgid "The IATI Validator is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results."
+msgstr "El Validador de la IATI es una herramienta para evaluar los datos utilizando las reglas y directrices de la Norma IATI. También ofrece información sobre cómo mejorar la calidad de los datos de la IATI para garantizar que sean accesibles y útiles para todas las personas que trabajen con datos sobre actividades, recursos y resultados humanitarios y de desarrollo."
+
+#: ../../index.rst:7
+msgid "Files can be uploaded to the Validator for assessment via `the Validator website <https://validator.iatistandard.org>`_ . Validation usually takes a few minutes."
+msgstr "Para su evaluación, los archivos pueden cargarse en el `sitio web del Validador : <https://validator.iatistandard.org>`_ . La validación suele tardar unos minutos."
+
+#: ../../index.rst:9
+msgid "A link to data on the Web can be provided, and the IATI Validator will download the file before assessing it. This relies on the data being publicly available: advice on identifying and resolving download issues can be found on the `IATI Standard Website <https://iatistandard.org/en/guidance/publishing-data/publishing-files/publishing-without-access-restrictions/>`_."
+msgstr "Puede facilitarse un enlace a los datos en la web, y el Validador de la IATI descargará el archivo antes de evaluarlo. Esto depende de que los datos estén a disposición del público: en el `sitio web de la Norma IATI <https://iatistandard.org/en/guidance/publishing-data/publishing-files/publishing-without-access-restrictions/>`_ encontrará orientación para identificar y resolver los problemas de descarga."
+
+#: ../../index.rst:11
+msgid "Reports on any published IATI file can be found in the `Public Data Viewer <https://validator.iatistandard.org/organisations>`_. Reports are available a few hours after the data has been updated."
+msgstr "Los informes sobre cualquier archivo publicado en la IATI pueden encontrarse en el `visualizador público de datos <https://validator.iatistandard.org/organisations>`_. Los informes están disponibles unas horas después de la actualización de los datos."
+
+#: ../../index.rst:13
+msgid "Validation and reports are also available via the `IATI API Portal <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_."
+msgstr "También es posible acceder a la validación y los informes a través del `portal de API de la IATI <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_."
+
+#: ../../index.rst:15
+msgid "The methodology used by the Validator and the meaning of the reports can be found in the :ref:`IATI Validation<Validation Overview>` section."
+msgstr "La metodología utilizada por el Validador y el significado de los informes pueden consultarse en la sección :ref:`Validación IATI<Descripción general de la validación>`."
+
+#: ../../index.rst:18
+msgid "Donor Requirements"
+msgstr "Requisitos de los donantes"
+
+#: ../../index.rst:20
+msgid "A number of donors have their own requirements for their grantees; the IATI Validator does not check for these. For assistance, contact the relevant donor. IATI does publish `donor reporting requirement guidance <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_ , which represents IATI's most current information."
+msgstr "Varios donantes tienen sus propios requisitos para sus beneficiarios; el Validador de la IATI no los comprueba. Para obtener ayuda, póngase en contacto con el donante correspondiente. La IATI publica `orientaciones sobre los requisitos de presentación de informes de los donantes <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_ , que presentan la información más actualizada de la IATI."
+
+#: ../../index.rst:23
+msgid "Help & Support"
+msgstr "Ayuda y asistencia"
+
+#: ../../index.rst:25
+msgid "`Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_"
+msgstr "`Póngase en contacto con nosotros <https://iatistandard.org/en/contact/>`_ si tiene alguna pregunta sobre la publicación, el uso o la mejora de los datos de la IATI. Existe una comunidad activa de usuarios de la IATI y entidades que publican de conformidad con la IATI a la que se puede acceder en `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_."

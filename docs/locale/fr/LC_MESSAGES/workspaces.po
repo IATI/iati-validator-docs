@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Validator Docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Validator Docs 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 15:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../workspaces.rst:2
+msgid "Workspaces"
+msgstr "Espaces de travail"
+
+#: ../../workspaces.rst:4
+msgid "When you use the Check Data function on the IATI Validator, a personal workspace is created for you. You can record the link in your browser's address bar, and return to it later to carry on your work. You can also share the link with others to allow them to see the validation results."
+msgstr "Lorsque vous utilisez la fonction Check Data (Vérifier les données) de l'outil de validation de l'IITA, un espace de travail personnel est créé pour vous. Vous pouvez enregistrer le lien dans la barre d'adresse de votre navigateur et y revenir plus tard pour poursuivre votre travail. Vous pouvez également partager le lien avec d'autres personnes pour leur permettre de voir les résultats de la validation."
+
+#: ../../workspaces.rst:6
+msgid "Workspaces will be deleted periodically for maintenance. There is no fixed schedule for this, but you should not rely on them existing forever. da  Individual files cannot be removed from a workspace, but the workspace can be cleared with the Clear Workspace button."
+msgstr "Les espaces de travail seront supprimés périodiquement à des fins de maintenance. Il n'y a pas de calendrier fixe à cet effet, mais vous devez garder à l'esprit qu'ils sont temporaires. Les fichiers individuels ne peuvent pas être supprimés d'un espace de travail, mais celui-ci peut être effacé à l'aide du bouton Clear Workspace (Effacer l'espace de travail)."
+
+#: ../../workspaces.rst:8
+msgid "You can start a new workspace by opening the IATI Validator in a different browser, or using the private browsing mode of your browser."
+msgstr "Vous pouvez lancer un nouvel espace de travail en ouvrant l'outil de validation de l'IITA dans un autre navigateur ou en utilisant le mode de navigation privée de votre navigateur."
+
+#: ../../workspaces.rst:11
+msgid "When you provide the URL of file, the workspace stores the validation results for the moment that you used the Check Data function. In order to check the file again, you should use the Check Data function again."
+msgstr "Lorsque vous fournissez l'URL du fichier, l'espace de travail stocke les résultats de la validation au moment où vous avez utilisé la fonction Vérifier les données. Pour vérifier à nouveau le fichier, vous devez réutiliser la fonction Vérifier les données."
+
+#: ../../workspaces.rst:13
+msgid "Validation reports contain a link to the workspace that contains the report. Therefore, if sharing a report, be aware that the recipient can see other reports in the workspace, add files to the workspace, or clear the workspace."
+msgstr "Les rapports de validation contiennent un lien vers l'espace de travail qui contient le rapport. Par conséquent, si vous partagez un rapport, n'oubliez pas que le destinataire peut voir d'autres rapports dans l'espace de travail, y ajouter des fichiers ou effacer l'espace de travail."
+
+#: ../../workspaces.rst:16
+msgid "If you intend to share a validation report, open the Validator in your browser's Private Browsing (or \"Incognito\") mode. This will create a new workspace."
+msgstr "Si vous avez l'intention de partager un rapport de validation, ouvrez l'outil de validation en mode de navigation privée (ou « Incognito ») sur votre navigateur. Cela créera un nouvel espace de travail."
+
+#: ../../workspaces.rst:18
+msgid "Your workspace contains a link to the data, but does not contain the data itself. The feedback may contain extracts from your data. If a validation report contains data that should be removed from public view, you can delete all validation reports in the workspace using the Clear Workspace button on the workspace page."
+msgstr "Votre espace de travail contient un lien vers les données, mais ne contient pas les données elles-mêmes. Le retour d'information peut contenir des extraits de vos données. Si un rapport de validation contient des données qui doivent être retirées du mode d'accès public, vous pouvez supprimer tous les rapports de validation de l'espace de travail à l'aide du bouton Effacer l'espace de travail (sur la page de l'espace de travail)."

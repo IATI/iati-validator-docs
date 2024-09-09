@@ -1,4 +1,4 @@
 .ve
 *.swp
 *~
-
+.DS_Store
