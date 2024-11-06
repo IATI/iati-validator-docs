@@ -24,12 +24,6 @@ Help & Support
 
  `Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
 
-
-.. toctree::
-   :hidden:
-
-   Home <self>
-
 .. toctree::
    :hidden:
    :titlesonly:
