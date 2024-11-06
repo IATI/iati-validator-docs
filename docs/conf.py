@@ -138,7 +138,13 @@ html_css_files = [
 # documentation.
 #
 html_theme_options = {
+    "github_repository": "https://github.com/IATI/iati-validator-docs",
     "plausible_domain": "validator.iatistandard.org",
+    "languages": {
+        "en": "English",
+        "fr": "French",
+        "es": "Spanish",
+    }
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
