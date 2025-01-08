@@ -144,7 +144,9 @@ html_theme_options = {
         "en": "English",
         "fr": "French",
         "es": "Spanish",
-    }
+    },
+    "tool_name": "IATI Validator",
+    "tool_url": "https://validator.iatistandard.org/",
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
