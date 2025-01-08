@@ -2,7 +2,7 @@
 IATI Validator
 **************
 
-The `IATI Validator <https://validator.iatistandard.org/>`_ is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results.
+The IATI Validator is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results.
 
 Files can be uploaded to the Validator for assessment via `the Validator website <https://validator.iatistandard.org>`_ . Validation usually takes a few minutes.
 
