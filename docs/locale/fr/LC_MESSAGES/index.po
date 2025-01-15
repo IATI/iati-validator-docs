@@ -37,8 +37,8 @@ msgid "IATI Validator"
 msgstr "Outil de validation de l’IITA"
 
 #: ../../index.rst:5
-msgid "The IATI Validator is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results."
-msgstr "L'outil de validation de l'IITA permet d'évaluer les données à l'aide des règles et des directives relatives à la norme de l'IITA. Il fournit également des informations sur la manière d'améliorer la qualité des données de l'IITA afin qu'elles soient accessibles et utiles à tous ceux qui travaillent avec des données sur les activités, les ressources et les résultats dans le domaine du développement et de l'action humanitaire."
+msgid "The `IATI Validator <https://validator.iatistandard.org/>`_ is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results."
+msgstr "`L'outil de validation de l'IITA <https://validator.iatistandard.org/>`_ permet d'évaluer les données à l'aide des règles et des directives relatives à la norme de l'IITA. Il fournit également des informations sur la manière d'améliorer la qualité des données de l'IITA afin qu'elles soient accessibles et utiles à tous ceux qui travaillent avec des données sur les activités, les ressources et les résultats dans le domaine du développement et de l'action humanitaire."
 
 #: ../../index.rst:7
 msgid "Files can be uploaded to the Validator for assessment via `the Validator website <https://validator.iatistandard.org>`_ . Validation usually takes a few minutes."
