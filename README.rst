@@ -3,7 +3,7 @@ IATI Validator Docs
 
 Deployed to https://docs.validator.iatistandard.org/en/latest/
 
-Docs should build automatically upon pull request.
+Docs build automatically upon pull request.
   
 Features of the docs
 --------------------
@@ -42,7 +42,7 @@ Assuming a unix based system:
   make dirhtml
 
 
-Built docs are in `docs/_build/dirhtml`.
+Built docs are in ``docs/_build/dirhtml``
 
 
 Viewing the docs:
@@ -54,8 +54,20 @@ Viewing the docs:
 
 Then go to http://localhost:8000/ in a browser.
 
+
 Translations
 ------------
+
+The translation workflow is:
+
+* Extract strings into English-language .pot files
+* Send the files for translation
+* When translated .po files are received, check them in to the repo and rebuild the docs
+
+On ReadTheDocs, there is a separate project for each language, each based on this repo. The projects for non-English languages are configured, on the English project, as translations. 
+
+Extract strings
+^^^^^^^^^^^^^^^
 
 Install requirements as above.
 
@@ -67,13 +79,35 @@ Extract English source strings:
    make gettext
    # .pot files are in _build/locale
 
-Then put the translated files in `docs/locale/fr/LC_MESSAGES/`.
 
-Build a translated docs site:
+
+
+Send files for translation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Via email
+
+Check translated files into the repo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Put the files in ``docs/locale/fr/LC_MESSAGES/`` (substituting fr for the appropriate language code as required)
+
+
+Build
+^^^^^
+
+Build a translated docs site locally:
 
 .. code-block:: bash
 
    cd docs
    make -e SPHINXOPTS="-D language='fr'" dirhtml
 
-Built docs are in `docs/_build/dirhtml`.
+
+(substituting fr for the appropriate language code as required)
+
+Built docs are in ``docs/_build/dirhtml``.
+
+Build remotely:
+
+All projects will build on a change to the repo, so a PR to the repo will trigger all languages to build. 
