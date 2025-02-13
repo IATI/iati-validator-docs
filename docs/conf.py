@@ -17,9 +17,15 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+
+import os
+
+from sphinx.locale import get_translation
+
+import iati_sphinx_theme
+
+MESSAGE_CATALOG_NAME = "iati-sphinx-theme"
+_ = get_translation(MESSAGE_CATALOG_NAME)
 
 # -- General configuration ------------------------------------------------
 
@@ -139,13 +145,14 @@ html_css_files = [
 #
 html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-validator-docs",
-    "plausible_domain": "validator.iatistandard.org",
+    "header_title_text": _("IATI Validator"),
     "languages": {
         "en": "English",
-        "fr": "French",
-        "es": "Spanish",
+        "fr": "Français",
+        "es": "Español",
     },
-    "tool_name": "IATI Validator",
+    "plausible_domain": "validator.iatistandard.org",
+    "tool_name": _("IATI Validator"),
     "tool_url": "https://validator.iatistandard.org/",
 }
 
@@ -359,8 +366,18 @@ texinfo_documents = [
 #
 # texinfo_no_detailmenu = False
 
-
-locale_dirs = ['locale/']   # path is example but recommended.
+locale_dirs = [
+    'locale/',
+    os.path.join(os.path.dirname(iati_sphinx_theme.__file__), "locale"),
+]
 gettext_compact = False     # optional.
 
 togglebutton_hint = ""
+
+
+def setup(app):
+    locale_path = os.path.join(
+        os.path.abspath(os.path.dirname(__file__)),
+        "locale"
+    )
+    app.add_message_catalog(MESSAGE_CATALOG_NAME, locale_path)
