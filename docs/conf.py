@@ -145,7 +145,7 @@ html_css_files = [
 #
 html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-validator-docs",
-    "header_title_text": _("IATI Validator Docs"),
+    "header_title_text": _("IATI Validator"),
     "languages": {
         "en": "English",
         "fr": "Français",
