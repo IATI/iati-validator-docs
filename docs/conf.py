@@ -146,11 +146,7 @@ html_css_files = [
 html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-validator-docs",
     "header_title_text": _("IATI Validator"),
-    "languages": {
-        "en": "English",
-        "fr": "Français",
-        "es": "Español",
-    },
+    "languages": ["en", "fr", "es"],
     "plausible_domain": "validator.iatistandard.org",
     "tool_name": _("IATI Validator"),
     "tool_url": "https://validator.iatistandard.org/",
