@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-02-13 09:45+0200\n"
+"POT-Creation-Date: 2025-04-24 10:20+0300\n"
 "PO-Revision-Date: 2025-01-21 14:01+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: es\n"
@@ -18,9 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.15.0\n"
 
-#: conf.py:148 conf.py:155
+#: conf.py:148 conf.py:153
 msgid "IATI Validator"
 msgstr "Validador de la IATI"
+
+#: conf.py:151
+msgid "IATI Validator: Documentation"
+msgstr "Validador de la IATI: Documentación"
 
 #~ msgid "IATI Validator Docs"
 #~ msgstr ""

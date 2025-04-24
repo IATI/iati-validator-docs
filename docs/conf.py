@@ -148,8 +148,10 @@ html_theme_options = {
     "header_title_text": _("IATI Validator"),
     "languages": ["en", "fr", "es"],
     "plausible_domain": "validator.iatistandard.org",
-    "tool_name": _("IATI Validator"),
-    "tool_url": "https://validator.iatistandard.org/",
+    "project_title": _("IATI Validator: Documentation"),
+    "tool_nav_items": {
+        _("IATI Validator"): "https://validator.iatistandard.org/"
+    },
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
