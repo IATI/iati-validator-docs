@@ -22,7 +22,7 @@ A number of donors have their own requirements for their grantees; the IATI Vali
 Help & Support
 --------------
 
- `Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
+`Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
 
 .. toctree::
    :hidden:
@@ -49,3 +49,11 @@ Help & Support
    :caption: Validator API
    
    api
+
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :caption: Download
+   :hidden:
+
+   PDF  <https://docs.validator.iatistandard.org/_/downloads/en/latest/pdf/>
