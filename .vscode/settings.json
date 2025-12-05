@@ -15,7 +15,8 @@
     // Specify file types to spell check.
     "cSpell.enabledLanguageIds": [
         "python",
-        "plaintext"
+        "plaintext",
+        "restructuredtext"
     ],
 
     // Enable / Disable the spell checker.
@@ -41,6 +42,15 @@
     // Set the delay before spell checking the document. Default is 50.
     "cSpell.spellCheckDelayMs": 50,
     "cSpell.words": [
+        "dirhtml",
         "eamodio",
+        "gettext",
+        "IATI",
+        "python3-venv",
+        "scrollbars",
+        "SPHINXOPTS"
+    ],
+    "cSpell.enableFiletypes": [
+        "restructuredtext"
     ]
 }

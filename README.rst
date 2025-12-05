@@ -61,6 +61,7 @@ The Python code in this repository uses the python [black](https://github.com/ps
 If editing in VSCode, the project is set up to format automatically on save.
 To format manually, run `black .`:
 
+
 Translations
 ============
 
