@@ -2,7 +2,7 @@
 IATI Validator
 **************
 
-The IATI Validator is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results.
+The `IATI Validator <https://validator.iatistandard.org/>`_ is a tool for assessing data using the rules and guidance of the IATI Standard. It also provides information on how to improve the quality of IATI data to ensure it is accessible and useful to anyone working with data on development and humanitarian activities, resources and results.
 
 Files can be uploaded to the Validator for assessment via `the Validator website <https://validator.iatistandard.org>`_ . Validation usually takes a few minutes.
 
@@ -22,13 +22,7 @@ A number of donors have their own requirements for their grantees; the IATI Vali
 Help & Support
 --------------
 
- `Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
-
-
-.. toctree::
-   :hidden:
-
-   Home <self>
+`Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
 
 .. toctree::
    :hidden:
@@ -55,3 +49,11 @@ Help & Support
    :caption: Validator API
    
    api
+
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :caption: Download
+   :hidden:
+
+   PDF  <https://docs.validator.iatistandard.org/_/downloads/en/latest/pdf/>

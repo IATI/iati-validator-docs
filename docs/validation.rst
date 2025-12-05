@@ -2,7 +2,7 @@
 Validation Overview
 ###################
 
-Validation is the process of assessing a file using the IATI standards. Both the schema and the rulesets are used in validation. 
+Validation is the process of assessing a file using the `IATI Standard <https://iatistandard.org/en/iati-standard/>`_. Both the schema and the rulesets are used in validation. 
 
 Validation only covers areas of the standard that can be checked by a computer: some requirements of the IATI standard (such as that text is descriptive) are subjective and therefore are not included in validation. 
 
