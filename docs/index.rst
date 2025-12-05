@@ -12,7 +12,7 @@ Reports on any published IATI file can be found in the `Public Data Viewer <http
 
 Validation and reports are also available via the `IATI API Portal <https://developer.iatistandard.org/api-details#api=iati-validator-v2&operation=get-pub-get-report>`_. 
 
-The methodology used by the Validator and the meaning of the reports can be found in the :ref:`IATI Validation<Validation Overview>` section.
+The methodology used by the Validator and the meaning of the reports can be found in the :ref:`IATI Validation<val_overview>` section.
 
 Donor Requirements
 ------------------
@@ -23,6 +23,15 @@ Help & Support
 --------------
 
 `Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_ 
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: IATI Validator
+
+   Home <self>
+
 
 .. toctree::
    :hidden:
@@ -49,11 +58,3 @@ Help & Support
    :caption: Validator API
    
    api
-
-.. toctree::
-   :titlesonly:
-   :maxdepth: 1
-   :caption: Download
-   :hidden:
-
-   PDF  <https://docs.validator.iatistandard.org/_/downloads/en/latest/pdf/>
