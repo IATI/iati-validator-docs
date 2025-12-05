@@ -114,7 +114,7 @@ packaging==25.0
     #   sphinx
 pathspec==0.12.1
     # via black
-platformdirs==4.5.0
+platformdirs==4.5.1
     # via black
 pygments==2.19.2
     # via
@@ -200,7 +200,7 @@ sphinxcontrib-youtube==1.4.1
     # via -r requirements.txt
 starlette==0.50.0
     # via sphinx-autobuild
-urllib3==2.5.0
+urllib3==2.6.0
     # via
     #   -r requirements.txt
     #   requests

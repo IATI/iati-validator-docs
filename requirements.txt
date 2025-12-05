@@ -113,7 +113,7 @@ sphinxcontrib-video==0.4.1
     # via -r requirements.in
 sphinxcontrib-youtube==1.4.1
     # via -r requirements.in
-urllib3==2.5.0
+urllib3==2.6.0
     # via requests
 wheel==0.45.1
     # via sphinx-togglebutton
