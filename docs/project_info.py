@@ -6,7 +6,7 @@
 project = "IATI Validator"
 
 # URL of the live tool this repo documents.
-tool_url = "https://validator.iatistandard.org/validate"
+tool_url = "https://validator.iatistandard.org"
 
 # Short label used in the nav. Defaults to ``project`` when None.
 nav_label = None
